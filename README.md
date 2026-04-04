@@ -182,23 +182,10 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 
 ## People
 
-- **Cynthia Kenyon** - Calico Life Sciences (VP of Aging Research). Discovered that single-gene mutations double C. elegans lifespan.
-- **Steve Horvath** - Altos Labs. Developed the Horvath epigenetic clock, the first multi-tissue DNA methylation age predictor.
-- **Vadim Gladyshev** - Harvard Medical School / Brigham and Women's Hospital. Pioneered ClockBase and research on mechanisms of aging reversal.
-- **Nir Barzilai** - Albert Einstein College of Medicine. Leads the TAME trial and studies genetics of exceptional longevity.
-- **David Sinclair** - Harvard Medical School. Proposed the information theory of aging; known for sirtuin and NAD+ research.
-- **Aubrey de Grey** - LEV Foundation (President and CSO). Pioneered the SENS damage-repair framework for rejuvenation.
-- **Matt Kaeberlein** - University of Washington. Led the Dog Aging Project; expert on mTOR and rapamycin in aging.
-- **Morgan Levine** - Altos Labs (VP). Developed PhenoAge and DNAm-based biological age predictors.
-- **Valter Longo** - USC Longevity Institute. Known for fasting-mimicking diet research and nutrient-sensing pathways.
-- **Carlos Lopez-Otin** - University of Oviedo. Co-authored the landmark hallmarks of aging framework (2013, 2023).
-- **Vera Gorbunova** - University of Rochester. Research on DNA repair, transposable elements, and long-lived species.
-- **Andrei Gudkov** - Roswell Park Comprehensive Cancer Center. Developed approaches targeting p53 and NF-kB in aging.
-- **Andrea Maier** - National University of Singapore. Clinical geroscience and translational aging interventions.
-- **Brian Kennedy** - National University of Singapore. Research on conserved aging pathways and rapamycin.
-- **Linda Partridge** - University College London / Max Planck Institute. Evolutionary biology of aging and dietary restriction.
-- **Jan Vijg** - Albert Einstein College of Medicine. Expert on somatic mutations and genome instability in aging.
-- **Judith Campisi** (1948-2024) - Buck Institute (emeritus). Pioneered research on cellular senescence and the SASP.
+- [David Sinclair](https://github.com/SinclairLab) - Harvard Medical School. Proposed the information theory of aging; known for sirtuin and NAD+ research.
+- [Vadim Gladyshev](https://github.com/Gladyshev-Lab) - Harvard Medical School / Brigham and Women's Hospital. Pioneered ClockBase and research on mechanisms of aging reversal.
+- [Morgan Levine](https://github.com/MorganLevineLab) - Altos Labs. Developed PhenoAge and PC-based epigenetic clocks for biological age prediction.
+- [Matt Kaeberlein](https://github.com/dogagingproject) - University of Washington. Led the Dog Aging Project; expert on mTOR and rapamycin in aging.
 
 ## Related Awesome Lists
 
