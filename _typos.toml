@@ -6,6 +6,7 @@ Soler = "Soler"
 dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
+HALD = "HALD"
 
 [files]
 extend-exclude = [
