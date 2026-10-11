@@ -162,6 +162,7 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
   b. [NMN vs NR for Cellular Energy](https://agerevive.com/learn/nmn-vs-nr-cellular-energy) - Side-by-side comparison of two common NAD+ precursors.
   c. [Gut–Mitochondria Axis](https://agerevive.com/learn/gut-mitochondria-axis) - Educational article on gut metabolites and mitochondrial biology.
   d. [What Is Urolithin A](https://agerevive.com/learn/what-is-urolithin-a) - Primer on urolithin A as a gut-derived mitochondrial metabolite.
+2. [Calder Brief — Biotech Hub](https://calder-brief.pages.dev/biotech-hub.html) - News and explainers on CRISPR, gene editing, and longevity science.
 
 ## Biotech & Pharmaceutical Companies
 
