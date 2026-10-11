@@ -2,7 +2,7 @@
 
 _A curated[^curation_details] list of awesome resources on lifespan extension[^definition_lifespan_extension]._
 
-[^definition_lifespan_extension]: (from Wikipedia, see citation at the bottom) **Life extension** is the concept of extending the [human lifespan](https://en.wikipedia.org/wiki/Maximum_human_lifespan "Maximum human lifespan"), either modestly through improvements in [medicine](https://en.wikipedia.org/wiki/Medicine "Medicine") or dramatically by increasing the maximum lifespan beyond its generally-settled limit of 125 years. [[1](https://en.wikipedia.org/wiki/Life_extension#cite_note-1)] Several researchers in the area, along with "immortalists" or advocates of life extension, postulate that future breakthroughs in [tissue rejuvenation](https://en.wikipedia.org/wiki/Rejuvenation_(aging) "Rejuvenation (aging)"), [stem cells](https://en.wikipedia.org/wiki/Stem_cell "Stem cell"), [regenerative medicine](https://en.wikipedia.org/wiki/Regenerative_medicine "Regenerative medicine"), [molecular repair](https://en.wikipedia.org/wiki/Molecular_nanotechnology "Molecular nanotechnology"), [gene therapy](https://en.wikipedia.org/wiki/Gene_therapy "Gene therapy"), [pharmaceuticals](https://en.wikipedia.org/wiki/Pharmaceutical_drug "Pharmaceutical drug"), and organ replacement (such as with [artificial organs](https://en.wikipedia.org/wiki/Artificial_organ "Artificial organ") or [xenotransplantations](https://en.wikipedia.org/wiki/Xenotransplantation "Xenotransplantation")) will eventually enable humans to have indefinite lifespans through complete [rejuvenation](https://en.wikipedia.org/wiki/Rejuvenation_(aging) "Rejuvenation (aging)") to a healthy youthful condition. The [ethical](https://en.wikipedia.org/wiki/Ethics "Ethics") ramifications, if life extension becomes a possibility, are debated by [bioethicists](https://en.wikipedia.org/wiki/Bioethics "Bioethics"). CITATION: Wikipedia contributors. "Life extension." Wikipedia. Last modified March 25, 2025. Accessed April 4, 2026. <https://en.wikipedia.org/wiki/Life_extension>.
+[^definition_lifespan_extension]: (from Wikipedia, see citation at the bottom) **Life extension** is the concept of extending the [human lifespan](https://en.wikipedia.org/wiki/Maximum_life_span "Maximum human lifespan"), either modestly through improvements in [medicine](https://en.wikipedia.org/wiki/Medicine "Medicine") or dramatically by increasing the maximum lifespan beyond its generally-settled limit of 125 years. [[1](https://en.wikipedia.org/wiki/Life_extension#cite_note-1)] Several researchers in the area, along with "immortalists" or advocates of life extension, postulate that future breakthroughs in [tissue rejuvenation](https://en.wikipedia.org/wiki/Rejuvenation_(aging) "Rejuvenation (aging)"), [stem cells](https://en.wikipedia.org/wiki/Stem_cell "Stem cell"), [regenerative medicine](https://en.wikipedia.org/wiki/Regenerative_medicine "Regenerative medicine"), [molecular repair](https://en.wikipedia.org/wiki/Molecular_nanotechnology "Molecular nanotechnology"), [gene therapy](https://en.wikipedia.org/wiki/Gene_therapy "Gene therapy"), [pharmaceuticals](https://en.wikipedia.org/wiki/Pharmaceutical_drug "Pharmaceutical drug"), and organ replacement (such as with [artificial organs](https://en.wikipedia.org/wiki/Artificial_organ "Artificial organ") or [xenotransplantations](https://en.wikipedia.org/wiki/Xenotransplantation "Xenotransplantation")) will eventually enable humans to have indefinite lifespans through complete [rejuvenation](https://en.wikipedia.org/wiki/Rejuvenation_(aging) "Rejuvenation (aging)") to a healthy youthful condition. The [ethical](https://en.wikipedia.org/wiki/Ethics "Ethics") ramifications, if life extension becomes a possibility, are debated by [bioethicists](https://en.wikipedia.org/wiki/Bioethics "Bioethics"). CITATION: Wikipedia contributors. "Life extension." Wikipedia. Last modified March 25, 2025. Accessed April 4, 2026. <https://en.wikipedia.org/wiki/Life_extension>.
 
 [^curation_details]: This list follows specific scoping guidelines. **Databases & Data Resources** covers aging genomic databases, biological age profiling platforms, and longevity drug databases. **Research Organizations & Institutes** features leading aging research centers and funding foundations. **Journals & Publications** includes primary aging biology journals and reviews. **Clinical Trials & Interventions** covers landmark aging trials and notable interventions under investigation. **Hallmarks of Aging & Mechanisms** presents the twelve-hallmark framework and key papers. **Tools & Software** includes epigenetic clocks, biological age calculators, and computational analysis tools. **Educational Resources** features books, podcasts, and courses. **Biotech & Pharmaceutical Companies** covers companies pursuing cellular reprogramming, senolytics, and AI-driven drug discovery for aging.
 
@@ -26,7 +26,7 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 1. [GenAge](https://genomics.senescence.info/genes/index.html) - Database of 307 human and 2,205 model organism genes linked to aging.
 2. [AnAge](https://genomics.senescence.info/species/index.html) - Aging, longevity, and life-history data across 4,645 animal species.
 3. [DrugAge](https://genomics.senescence.info/drugs/index.php) - Database of 1,097 longevity drugs and compounds tested in model organisms.
-4. [CellAge](https://genomics.senescence.info/cells/index.php) - Catalogue of 866 genes associated with cellular senescence.
+4. [CellAge](https://genomics.senescence.info/cells) - Catalogue of 866 genes associated with cellular senescence.
 5. [LongevityMap](https://genomics.senescence.info/longevity/index.php) - Repository of 3,144 human genetic variants associated with longevity.
 6. [GenDR](https://genomics.senescence.info/diet/index.php) - Database of 214 genes associated with dietary restriction longevity effects.
 
@@ -37,7 +37,7 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 3. [ClockBase](https://www.clockbase.org/) - Biological age profiling platform spanning 2M+ human and mouse samples.
 4. [ClinicalTrials.gov (Aging)](https://clinicaltrials.gov/search?cond=Aging) - U.S. registry of clinical trials filtered for aging-related studies.
 5. [HALD](https://www.nature.com/articles/s41597-023-02781-0) - Human aging and longevity knowledge graph for geroscience analyses.
-6. [AgeFactDB](https://agefactdb.jenage.de/) - JenAge Ageing Factor Database cataloguing factors affecting aging.
+6. [AgeFactDB](https://www.jenage.de/databases/agefactdb) - JenAge Ageing Factor Database cataloguing factors affecting aging.
 
 ## Research Organizations & Institutes
 
@@ -52,7 +52,7 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 9. [Paul F. Glenn Center for Biology of Aging Research](https://www.hms.harvard.edu/agingresearch/) - Harvard Medical School center for aging biology.
 10. [Hevolution Foundation](https://www.hevolution.com/) - Saudi-backed foundation funding healthspan science globally.
 11. [Academy for Health & Lifespan Research](https://www.ahlresearch.org/) - Honorary society of leading aging researchers.
-12. [Longevity Science Foundation](https://www.longevityscience.foundation/) - Swiss foundation funding breakthrough aging research.
+12. [Longevity Science Foundation](https://www.longevity.foundation) - Swiss foundation funding breakthrough aging research.
 
 ## Journals & Publications
 
@@ -124,7 +124,7 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 3. [pyaging](https://github.com/rsinghlab/pyaging) - Python package for biological aging clock analysis.
 4. [ClockBase](https://www.clockbase.org/) - Platform profiling biological age across 2M+ molecular samples.
 5. [Aging Clock (curated list)](https://github.com/mdozmorov/Aging_clock) - Papers and data related to epigenetic clocks predicting age.
-6. [MammalMethylClock](https://github.com/shorvath/MammalMethylClock) - R package for pan-mammalian epigenetic clocks.
+6. [MammalMethylClock](https://github.com/jazoller96/mammalian-methyl-clocks) - R package for pan-mammalian epigenetic clocks.
 
 ### Computational & Molecular Analysis
 
@@ -146,9 +146,9 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 ### Podcasts & Video
 
 1. [The Drive (Peter Attia)](https://peterattiamd.com/podcast/) - Deep-dive podcast on longevity, medicine, and performance.
-2. [Lifespan Podcast (David Sinclair)](https://www.youtube.com/@davidsinclairpodcast) - Podcast on the science of aging and interventions.
+2. [Lifespan Podcast (David Sinclair)](https://www.youtube.com/c/DavidSinclairPodcast) - Podcast on the science of aging and interventions.
 3. [FoundMyFitness (Rhonda Patrick)](https://www.foundmyfitness.com/episodes) - Podcast covering longevity, nutrition, and genetics.
-4. [Longevity by Design (InsideTracker)](https://blog.insidetracker.com/longevity-by-design-podcast) - Interviews with leading longevity researchers.
+4. [Longevity by Design (InsideTracker)](https://www.insidetracker.com/podcast) - Interviews with leading longevity researchers.
 
 ### Online Courses & Lectures
 
@@ -170,13 +170,12 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 1. [Altos Labs](https://altoslabs.com/) - Cellular rejuvenation programming to restore cell health.
 2. [Retro Biosciences](https://www.retro.bio/) - Autophagy, reprogramming, and plasma therapeutics to add 10 healthy years.
 3. [NewLimit](https://www.newlimit.com/) - Epigenetic reprogramming medicines targeting aging (Coinbase co-founded).
-4. [Turn Biotechnologies](https://www.turnbiotechnologies.com/) - mRNA-based epigenetic reprogramming of aged cells.
 
 ### Senolytics & Senescence
 
 1. [Unity Biotechnology](https://unitybiotechnology.com/) - Senolytic therapies for age-related diseases (ophthalmology focus).
 2. [Oisin Biotechnologies](https://www.oisinbio.com/) - Lipid nanoparticle platform for selective senescent cell clearance.
-3. [Rubedo Life Sciences](https://www.rubedo.life/) - Prodrug senolytics selectively activated in senescent cells.
+3. [Rubedo Life Sciences](https://www.rubedolife.com) - Prodrug senolytics selectively activated in senescent cells.
 4. [Senisca](https://senisca.com/) - Senotherapeutics targeting RNA splicing in senescent cells.
 
 ### AI-Driven Drug Discovery & Other Approaches
@@ -198,7 +197,6 @@ _A curated[^curation_details] list of awesome resources on lifespan extension[^d
 ## Related Awesome Lists
 
 - [Awesome Longevity](https://github.com/atilatech/awesome-longevity) - Longevity resources for living longer, healthier lives.
-- [Awesome Longevity (Rejuve)](https://github.com/Rejuve/awesome-longevity) - Longevity therapeutics, regenerative medicine, and medical AI.
 - [Awesome Longevity Information](https://github.com/Laurentiu-Andronache/awesome-longevity-information) - Health-span extension information and research.
 - [Aging Clock](https://github.com/mdozmorov/Aging_clock) - Data and papers related to epigenetic clocks predicting age.
 - [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) - Websites, resources, devices, and applications for self tracking.
